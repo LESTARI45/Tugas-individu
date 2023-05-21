@@ -10,7 +10,7 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ## Tampilan website
 
-<img width="960" alt="Screenshot 2023-05-21 215209" src="https://github.com/LESTARI45/Tugas-individu/assets/131166172/82eec9f6-aa8c-4118-a0f4-c2b6d0b97bc2">
+<img width="960" alt="Screenshot 2023-05-21 215209" src="https://github.com/LESTARI45/Tugas-individu/assets/131166172/0b396d15-e979-469e-8f3e-ee62f95b045b">
 
 
 Tampilan tersebut dapat dilihat di link berikut:
